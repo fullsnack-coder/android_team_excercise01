@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Grupo_01_GarciaChuman_Tarea_04_Ejercicio_01</string>
+    <string name="txt_header_title">Registro de Paciente</string>
+    <string name="txt_header_description">Registra a tu paciente por medio de este formulario</string>
+    <string name="lbl_fullname">Nombres completos:</string>
+    <string name="input_fullname_hint">Ingrese sus nombres completos</string>
+    <string name="lbl_lastname">Apellido paterno:</string>
+    <string name="input_lastname_hint">Ingrese su apellido paterno</string>
+    <string name="lbl_secondlastname">Apellido materno:</string>
+    <string name="input_second_lastname_hint">Ingrese su apellido materno</string>
+    <string name="lbl_age">Edad:</string>
+    <string name="input_age_hint">Ingrese su edad, sin mentir</string>
+    <string name="lbl_size">Talla:</string>
+    <string name="input_size_hint">Ingrese su talla</string>
+    <string name="lbl_weight">Peso:</string>
+    <string name="input_weight_hint">Ingrese su peso</string>
+    <string name="lbl_sex">Sexo:</string>
+    <string name="rbt_male">Masculino</string>
+    <string name="rbt_female">Femenino</string>
+    <string name="btn_save">Guardar información del paciente</string>
+</resources>
